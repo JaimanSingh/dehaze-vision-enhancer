@@ -1,4 +1,4 @@
-# DeHazifyingAlgorithm-VisionEnhancer
+# De-Haze: Vision Enhancing Algorithm
 
 ### Problem Statement: 
 - Design and development of a surveillance device to increase the visibility of an indoor public area under fire.
